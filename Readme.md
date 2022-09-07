@@ -42,7 +42,7 @@ A N*M dim martrix in CSV file.
 
 ## 最佳 K 值選擇 Best-K chosen
 
-[Image]
+[Image](https://github.com/wuyiulin/OptimalKmeans/blob/main/img/GSS.jpeg)
 
-[Image]
+[Image](https://github.com/wuyiulin/OptimalKmeans/blob/main/img/sil.jpeg)
 
