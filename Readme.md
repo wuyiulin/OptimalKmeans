@@ -46,3 +46,17 @@ A N*M dim martrix in CSV file.
 
 ![Image](https://github.com/wuyiulin/OptimalKmeans/blob/main/img/sil.jpeg)
 
+
+
+## Acknowledgement
+
+Gap statistic source code from:
+
+https://medium.com/@pahome.chen/clustering%E6%B1%BA%E5%AE%9A%E5%88%86%E7%BE%A4%E6%95%B8%E7%9A%84%E6%96%B9%E6%B3%95-abedc1d81ccb
+
+
+## Contact
+
+Further information please contact me.
+
+wuyiulin@gmail.com
